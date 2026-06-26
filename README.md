@@ -82,8 +82,6 @@ deactivate
 
 ## Cost
 - Free — uses Google AI Studio free tier
-- No Google Cloud billing account required
-- No credit card needed
 
 ## Built With
 - Google Agent Development Kit (ADK) — https://google.github.io/adk-docs/
